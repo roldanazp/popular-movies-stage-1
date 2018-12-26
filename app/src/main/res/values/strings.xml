@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="movie_original_title">Original Title</string>
+    <string name="movie_release_date">Release date</string>
+    <string name="movie_overview">Synopsis</string>
+    <string name="movie_vote_average">Rating</string>
+    <string name="loading_problem">Loading Problem : (</string>
+
+    <string name="cd_status_image">Status Image</string>
+    <string name="cd_movie_poster">Movie Poster</string>
+    <string name="search_popularity">Popularity</string>
+    <string name="search_vote_average">Vote Average</string>
+
+</resources>

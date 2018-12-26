@@ -1,0 +1,8 @@
+
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(„§ê¹
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¯¡®Ñýÿÿÿÿ
+\squid:UselessImportCheck"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ
+[squid:UselessImportCheck"9Remove this unused import 'com.squareup.picasso.Picasso'.(£œ¿×
+Usquid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ
+\squid:UselessImportCheck":Remove this unused import 'com.squareup.picasso.Callback'.(“¢àò
+Tsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ
